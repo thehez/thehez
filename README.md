@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thehez
-- 👀 I’m interested in Penetration Testing, Networks and all things Cloud
-- 🌱 I’m currently working on Azure with a focus on exploiting weaknesses in hybrid environments
+- 👀 I’m interested in Penetration Testing, Security Engineering & Cloud-Native
+- 🌱 I’m currently working on architecting bespoke security solutions within Azure and focused on enumerating weaknesses in hybrid-cloud environments
 
 <!---
 thehez/thehez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
